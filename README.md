@@ -1,4 +1,4 @@
-# 📊-Retail-Business-Analysis-Dashboard-Power-BI
+# 📊 Retail Business Analysis-Dashboard(Power-BI)
 Developed a Power BI Dashboard for Shop Nest Store using M Language/DAX for end-to-end data analysis. Key results: identified $1.44M in top-selling categories and exposed a 25% delayed order rate bottleneck, driving immediate inventory and logistics optimization.
 ## 🌟 Overview
 Developed a comprehensive Power BI Business Intelligence Dashboard for "Shop Nest Store" to drive strategic and operational improvements. The project transformed raw, transactional data into actionable insights, focusing on sales performance, category optimization, and order fulfillment efficiency to enable data-driven decisions on inventory, marketing, and supply chain management.
